@@ -1,9 +1,7 @@
 # learning_tracker
 A repository to document my learning journey as a developer.
 
-Inspired originaly by [learning](https://github.com/amitness/learning)repo by @amitness and later adapting the [learning-tracker](https://github.com/MakeItBack/Learning-Tracker) repo by @MakeItBack.
-
---
+Inspired originaly by [learning](https://github.com/amitness/learning) repo by [@amitness](https://github.com/amitness) and later adapting the [learning-tracker](https://github.com/MakeItBack/Learning-Tracker) repo by [@MakeItBack](https://github.com/MakeItBack).
 
 
 ## Courses
